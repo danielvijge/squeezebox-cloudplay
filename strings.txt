@@ -1,0 +1,20 @@
+PLUGIN_CLOUDPLAY
+	EN	Cloudplay
+
+PLUGIN_CLOUDPLAY_DESC
+	EN	Play music from various different websites
+
+PLUGIN_CLOUDPLAY_SEARCH
+	EN	Source URL
+
+PLUGIN_CLOUDPLAY_ERROR
+	EN	Error
+
+PLUGIN_CLOUDPLAY_NOT_FOUND
+	EN	Not found
+
+PLUGIN_CLOUDPLAY_FORMATS
+	EN	Other formats
+
+PLUGIN_CLOUDPLAY_VERSION
+	EN	youtube-dl version

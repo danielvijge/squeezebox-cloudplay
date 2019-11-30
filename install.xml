@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+
+<extension>
+	<name>PLUGIN_CLOUDPLAY</name>
+	<module>Plugins::Cloudplay::Plugin</module>
+	<version>0.0.1</version>
+	<description>PLUGIN_CLOUDPLAY_DESC</description>
+	<icon>plugins/Cloudplay/html/images/icon.png</icon>
+	<defaultState>enabled</defaultState>
+	<targetApplication>
+		<id>SlimServer</id>
+		<minVersion>7.5</minVersion>
+        	<maxVersion>7.*</maxVersion>
+	</targetApplication>
+  	<creator>Daniel Vijge</creator>
+  	<email>spam+squeezebox@vijge.net</email>
+</extension>
